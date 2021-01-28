@@ -1,0 +1,6 @@
+01,MacBook 2016,10,Apple,
+02,HP Laptop,10,HP,
+03,Dell Laptop,10,Dell,
+04,Sony Viao,15,Sony,
+05,Chromebook,5,Google,
+
